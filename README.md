@@ -1,7 +1,7 @@
 
 Encapsulation means protecting data by keeping it private inside the class and controlling access through public methods.
 
-Here, brand and year are private, so they cannot be modified directly from outside the class.
+In the code the brand and year are private, so they cannot be modified directly from outside the class.
 
 Instead, we use setData() and display() this ensures the internal state of the object is only changed in a controlled way.
 
