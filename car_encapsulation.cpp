@@ -1,3 +1,5 @@
+// this code tested only using Cxxdroid app on android. So, error may generate running on another compiler (as i am a beginner)
+
 #include <iostream>
 using namespace std;
 
